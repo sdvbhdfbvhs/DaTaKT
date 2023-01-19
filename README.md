@@ -6,7 +6,7 @@ Use the following command to install pyKT:
 Create conda envirment.
 
 ```
-conda create - pykt python=3.6
+conda create -n pykt python=3.6
 source activate pykt
 ```
 
